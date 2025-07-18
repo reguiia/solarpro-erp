@@ -1,0 +1,17 @@
+{
+  "Sidebar": {
+    "dashboard": "Dashboard",
+    "crm": "CRM",
+    "projects": "Projects",
+    "finance": "Finance"
+  },
+  "Header": {
+    "title": "SolarPro ERP"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+} 
